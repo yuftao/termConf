@@ -1,0 +1,4 @@
+termConf
+========
+
+Terminator Config
